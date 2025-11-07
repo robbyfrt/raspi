@@ -1,0 +1,11 @@
+{
+  "workbench.startupEditor": "none",
+  "markdown.preview.openMarkdownLinks": "inPreview",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.vscode": false
+  },
+  "markdown.preview.scrollEditorWithPreview": true,
+  "markdown.preview.scrollPreviewWithEditor": true,
+  "markdown.preview.doubleClickToSwitchToEditor": true
+}
