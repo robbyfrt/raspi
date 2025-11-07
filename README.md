@@ -1,6 +1,6 @@
 # Raspberry Pi 5 Starter Pack
 
-This starter pack contains step-by-step guides and resources to help a non-coder set up four projects on a new Raspberry Pi 5. It's intended to be a gift you (Robby) will guide remotely.
+This starter pack contains step-by-step guides and resources to help a non-coder set up four projects on a new Raspberry Pi 5. It's intended as a gift to Marcel, where Robby will guide remotely.
 
 ## Included projects:
 
@@ -34,4 +34,4 @@ The raspberry can be operated remotely with VSCode. Checkout `extras/remote_vsco
 
 Start with `home-assistant` and then follow the numbered steps in each project's README.
 
-Happy gifting!
+Happy coding!
